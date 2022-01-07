@@ -2,6 +2,7 @@
 Discord selfbot template with Python
 
 **REMEMBER! using selfbot is like you screaming: "BAN ME DISCORD!!!"**. [Read more](https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-)
+
 **If your account deactivated, it's not my responsibility**
 **Do whatever you want at your own risk**
 
