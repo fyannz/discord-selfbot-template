@@ -20,10 +20,13 @@ A: 3.10
 Q: can't find module named 'discord.py'
 A: make sure discord.py is installed via pip
 
-Q: how do i install 'discord.py' module
+Q: how do i install 'discord.py' module?
 A: run "pip install discord.py" using command prompt or command line if you are on Linux
 
-Q: the selfbot wont running
+Q: how to run the selfbot?
+A: open the START.bat file
+
+Q: the selfbot wont start
 A: make sure you entered your account token. dont forget to save the file :D
 ```
 
